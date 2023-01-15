@@ -14,6 +14,8 @@ The Simplex Model Number Checker is used to determine compatibility of Simplex H
 
 When a user enters a value for a device model number, the checker compares that to values in the list and returns the matched device type.
 
+This repository acts as somewhat of a psedo REST API to provide up to date information to the web application, rather than hosting a complete database and API.
+
 ## Do we have something missing or wrong in the list?
 If you have a GitHub account, you are very welcome to fork our repository, make the corrections, and [open a pull request](https://github.com/TheFirePanel/SimplexModelChecker/compare)!
 
