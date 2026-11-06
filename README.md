@@ -1,6 +1,6 @@
 # Simplex Model Number Checker
 ## History
-The Simplex Model Number Checker was originally developed by Andrew Davis, known on YouTube as NewAgeServerAlarm back in 2012 with a video titled [Fire Alarm Buyers' Guide Part 1: Notification Appliances](https://www.youtube.com/watch?v=eSUUNoW0h_Q). While the link in the video description is no longer valid, the tool has been moved to The Fire Panel, LLC's website and can still be used at [this link](https://www.thefirepanel.com/wiki/ndevices/simplexmnc/) today.
+The Simplex Model Number Checker was originally developed by Andrew Davis, known on YouTube as NewAgeServerAlarm back in 2012 with a video titled [Fire Alarm Buyers' Guide Part 1: Notification Appliances](https://www.youtube.com/watch?v=eSUUNoW0h_Q). While the link in the video description is no longer valid, the tool has been moved to The Fire Panel's website and can still be used at [this link](https://www.thefirepanel.com/tools/simplex-model-number-checker/) today.
 
 ## How it Works
 The Simplex Model Number Checker is used to determine compatibility of Simplex Horn / Strobes. They can be broken down to the following categories:
